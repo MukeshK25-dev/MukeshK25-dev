@@ -45,4 +45,19 @@ Automated tests (`pytest`), a real LLM call in place of MailBrain's rule-based a
 
 ---
 
+### 🏆 Achievements
+
+- **TCS CodeVita Season 13** — Global Rank **14136** among lakhs of participants worldwide, awarded by TCS Global Head of Talent Acquisition for exceptional coding skills.
+
+---
+
+### 📜 Certifications
+
+- **Python Essentials 1** — Cisco Networking Academy & OpenEDG Python Institute (Jul 2026) · [Verify Badge](https://www.credly.com/badges/bb4ad8a6-5572-4e30-ad62-f5d9f9e39602/public_url)
+- **Python Basics** — Infosys Springboard (Jun 2025)
+- **Generative AI Workshop** — CISCO, Pragyan 2025, NIT Trichy (Feb 2025)
+- **AWS Cloud Computing** — Internship Certificate, UpskillEd in association with OneData Software Solutions (Feb–Mar 2024)
+
+---
+
 📫 Open to entry-level Software Engineering / Python Developer roles.
